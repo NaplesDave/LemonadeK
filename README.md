@@ -1,5 +1,7 @@
 Project: Lemonade App - Starter Code
 ==================================
+Modified as COMPLETED Project by me July 7, 2022
+It works and passes all tests included by Google.
 
 Starter code for the first independent project for [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
 
